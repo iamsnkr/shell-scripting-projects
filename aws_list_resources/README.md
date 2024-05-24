@@ -8,8 +8,8 @@ Bash shell (tested on Ubuntu 22.04 LTS)
 AWS CLI (version 2) configured with appropriate credentials
 Installation:
 
-Save the script as aws_resource_tracker.sh.
-Make the script executable: chmod +x aws_resource_tracker.sh
+Save the script as **aws_resource_tracker.sh**.
+**Make the script executable**: ```chmod +x aws_resource_tracker.sh```
 Optionally, set up AWS CLI credentials (refer to AWS documentation for details).
 **Usage:**
 
